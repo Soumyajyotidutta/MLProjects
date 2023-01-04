@@ -1,3 +1,3 @@
 # MLProjects
-OnedayOneproject
-Day 1: Linear Regression - Olympics Dataset (Sci-kit Learn)
+
+Project 1: Olympics Data Analysis[Linear Regression - Olympics Dataset {Sci-kit Learn}]
